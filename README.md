@@ -2,7 +2,7 @@
 
 
 
-- [Github](https://github.com/hadihaghighat/hadihaghighat.github.io)
+- [Github](https://github.com/hadihaghighat)
 - [resume](https://hadihaghighat.github.io/)
 - [SOP](https://hadihaghighat.github.io/sop)
 - [javascript Certificate]

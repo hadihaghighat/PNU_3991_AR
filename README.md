@@ -8,7 +8,16 @@
 - [javascript Certificate](https://github.com/hadihaghighat/PNU_3991_AR/blob/main/JS.jpg)
 - [jlord patchwork]
 
+------------------
+> ارزیابی ها
 
+###  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه]()
+- [خلاصه ارزیابی بخش عمومی]()
+
+### بخش دروس کارشناسی
+- [خلاصه ارزیابی درس طراحی واسط کاربر]()
+-----------------
 
 
  ## Winter Semester Courses 1399/2020

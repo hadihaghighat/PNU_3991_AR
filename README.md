@@ -17,7 +17,7 @@
 
 ### بخش دروس کارشناسی
 - [خلاصه ارزیابی درس طراحی واسط کاربر](https://github.com/hadihaghighat/PNU_3991_AR/blob/main/HH_UserInterfaceDesgin_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی درس نظریه زبانها و ماشینها]()
+- [خلاصه ارزیابی درس نظریه زبانها و ماشینها](https://github.com/hadihaghighat/PNU_3991_AR/blob/main/HH_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی درس روش پژوهش و ارائه](https://github.com/hadihaghighat/PNU_3991_AR/blob/main/HH_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 -----------------
 
